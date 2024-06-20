@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3weJKlniqqBIt9u0C018iiWOhS8d/x8wuSCaK7qErl2cQ4pe0fpC/A9nzP7oh5tRYtnCEKPc+DkDPcN1o/Rzg==",
+  "dgSpecHash": "VokEd+Im7HNCXOcP3kQm/A7gLpVzEGsjmiqbTF99I9Qk/jAMW18w16zcWD4ViED1uGUnNBu2XAEWvKDT8BfcPA==",
   "success": true,
-  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.web\\Mango.web.csproj",
+  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.web\\Mango.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.0\\microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
     "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.0\\microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",

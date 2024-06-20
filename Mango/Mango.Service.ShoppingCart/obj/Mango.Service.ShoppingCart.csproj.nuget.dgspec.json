@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj": {}
+    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj": {}
   },
   "projects": {
-    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj": {
+    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
+        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
         "projectName": "Mango.MessageBus",
-        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
+        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
         "packagesPath": "C:\\Users\\trycatch\\.nuget\\packages\\",
-        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\obj\\",
+        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trycatch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj": {
+    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
+        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
         "projectName": "Mango.Service.ShoppingCart",
-        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
+        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
         "packagesPath": "C:\\Users\\trycatch\\.nuget\\packages\\",
-        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\obj\\",
+        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trycatch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj": {
-                "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj"
+              "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj": {
+                "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj"
               }
             }
           }

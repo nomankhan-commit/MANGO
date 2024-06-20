@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {}
+    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {}
   },
   "projects": {
-    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {
+    "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+        "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
         "projectName": "Mango.Services.CouponAPI",
-        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+        "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\trycatch\\.nuget\\packages\\",
-        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\obj\\",
+        "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trycatch\\AppData\\Roaming\\NuGet\\NuGet.Config",

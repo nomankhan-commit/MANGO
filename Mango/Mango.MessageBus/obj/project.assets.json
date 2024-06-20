@@ -608,11 +608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
+      "projectUniqueName": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
       "projectName": "Mango.MessageBus",
-      "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
+      "projectPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
       "packagesPath": "C:\\Users\\trycatch\\.nuget\\packages\\",
-      "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\obj\\",
+      "outputPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trycatch\\AppData\\Roaming\\NuGet\\NuGet.Config",

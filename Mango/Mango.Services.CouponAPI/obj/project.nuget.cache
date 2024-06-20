@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EsQPmhQ1mCDWIKuEO6CqgaMmjdwj4ES4GSY2lN5pkqmyKyBjFCTHP0cKiWqDe0R2gfleb0d5xkh0vJGkoBGxrQ==",
+  "dgSpecHash": "Lq0oa18jgswBblGYgCVHy8Hte5ulJRDlhHyD1Bi3aPr3Qe5H/NybotxQobxnTfX2ZFujP9HKYC6rFoJSpd9yaw==",
   "success": true,
-  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trycatch\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\trycatch\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

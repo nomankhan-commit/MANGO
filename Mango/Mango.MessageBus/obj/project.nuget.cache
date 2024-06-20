@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zuGTYF0TXqeGbS4F4kDoc3zwEzDWzl28/p5VJTV6LmsPPqlPIQvG8hZezYGiYx1ETTxq0camssRQiI7GycrlvQ==",
+  "dgSpecHash": "I91f4hXvInddTXexd42triOUSllapOqYBAswqrZxIaq3vKi1S8E3yJUgdrQGRbfjzlTGalnhz3kBwzXA7MwELA==",
   "success": true,
-  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
+  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.MessageBus\\Mango.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trycatch\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\trycatch\\.nuget\\packages\\azure.core.amqp\\1.3.0\\azure.core.amqp.1.3.0.nupkg.sha512",

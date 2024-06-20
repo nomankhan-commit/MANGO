@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\",
+  "WorkspaceRootPath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|d:\\old pc data\\skill devlopment courses and notes\\udemy\\mangomicroservice\\mango\\mango\\mango.service.emailapi\\model\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|solutionrelative:mango.service.emailapi\\model\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|d:\\old pc data\\skill devlopment courses and notes\\udemy\\mangomicroservice\\mango\\mango\\mango.service.emailapi\\data\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|solutionrelative:mango.service.emailapi\\data\\messaging\\azureservicebusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|d:\\old pc data\\skill devlopment courses and notes\\udemy\\mangomicroservice\\mango\\mango\\mango.service.emailapi\\model\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|solutionrelative:mango.service.emailapi\\model\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|d:\\old pc data\\skill devlopment courses and notes\\udemy\\mangomicroservice\\mango\\mango\\mango.service.emailapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|solutionrelative:mango.service.emailapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|d:\\old pc data\\skill devlopment courses and notes\\udemy\\mangomicroservice\\mango\\mango\\mango.service.emailapi\\extension\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055FAC30-948E-4C77-9FEB-F34F155A43AB}|Mango.Service.EmailApi\\Mango.Service.EmailApi.csproj|solutionrelative:mango.service.emailapi\\extension\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 37,
+          "SelectedChildIndex": 41,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,15 +182,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240618080313_EmailLogTable.cs",
-              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs",
-              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs",
-              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs",
-              "RelativeToolTip": "Mango.Service.EmailApi\\Migrations\\20240618080313_EmailLogTable.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAywBYAAAASAAAA",
+              "DocumentIndex": 1,
+              "Title": "AzureServiceBusConsumer.cs",
+              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Data\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Data\\Messaging\\AzureServiceBusConsumer.cs",
+              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Data\\Messaging\\AzureServiceBusConsumer.cs",
+              "RelativeToolTip": "Mango.Service.EmailApi\\Data\\Messaging\\AzureServiceBusConsumer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAhwCwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:03:13.569Z",
+              "WhenOpened": "2024-06-20T10:20:18.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Mango.Service.EmailApi\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:20:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Extension\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Extension\\ApplicationBuilderExtension.cs",
+              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Extension\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "Mango.Service.EmailApi\\Extension\\ApplicationBuilderExtension.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:19:15.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Model\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Model\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Model\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Mango.Service.EmailApi\\Model\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:18:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Model\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Mango.Service.EmailApi\\Model\\Services\\EmailService.cs",
+              "ToolTip": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.EmailApi\\Model\\Services\\EmailService.cs",
+              "RelativeToolTip": "Mango.Service.EmailApi\\Model\\Services\\EmailService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:18:36.798Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BrSdhRFhptLk2tdNIEpWKBw62SwaOh4n9l+o7A0ZNQ6Xsel/w2gr+VEQt+O3idIdpmezzB4kgCgtyDaZVROsVQ==",
+  "dgSpecHash": "ROhvpHt+LaiviTxCWBOBqMUkrblk51IGxX9Ggd83H/yRQy8z8Q6WCdcqvsJXYi9aCqkU8w4dMr6oCshYQPFu2w==",
   "success": true,
-  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MicroServices\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
+  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.Service.ShoppingCart\\Mango.Service.ShoppingCart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trycatch\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\trycatch\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
