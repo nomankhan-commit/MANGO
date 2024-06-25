@@ -21,6 +21,11 @@ namespace Mango.web.Controllers
         {
             return View(await LoadCartDtoBasedonLoggedInUser());
         }
+        
+        public async Task<IActionResult> checkout()
+        {
+            return View(await LoadCartDtoBasedonLoggedInUser());
+        }
 
         public async Task<IActionResult> Remove(int cartDetailId)
         {

@@ -285,3 +285,10 @@ D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\
 D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\obj\Debug\net8.0\Mango.Service.AuthAPI.pdb
 D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\obj\Debug\net8.0\Mango.Service.AuthAPI.genruntimeconfig.cache
 D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\obj\Debug\net8.0\ref\Mango.Service.AuthAPI.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Azure.Core.Amqp.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Mango.MessageBus.dll
+D:\OLD PC DATA\skill devlopment courses and notes\UDEMY\MangoMicroService\MANGO\Mango\Mango.Service.AuthAPI\bin\Debug\net8.0\Mango.MessageBus.pdb
