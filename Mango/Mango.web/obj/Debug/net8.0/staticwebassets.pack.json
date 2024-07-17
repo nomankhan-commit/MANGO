@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.web\\wwwroot\\images\\mango.png",
+      "PackagePath": "staticwebassets\\images\\mango.png"
+    },
+    {
+      "Id": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.web\\wwwroot\\images\\order.PNG",
+      "PackagePath": "staticwebassets\\images\\order.PNG"
+    },
+    {
       "Id": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango\\Mango.web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,4 +1,5 @@
-﻿using Mango.web.Models.Dto;
+﻿using Mango.web.Model.Dto;
+using Mango.web.Models.Dto;
 using Mango.web.Service.IService;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -11,9 +12,12 @@ namespace Mango.web.Controllers
     {
 
         private readonly ICartService _cartService;
-        public CartController(ICartService cartService)
+        private readonly IOrderService _orderService;
+        public CartController(ICartService cartService, IOrderService orderService)
         {
             _cartService = cartService;  
+            _orderService = orderService;
+         
         }
 
         [Authorize]
@@ -25,6 +29,31 @@ namespace Mango.web.Controllers
         public async Task<IActionResult> checkout()
         {
             return View(await LoadCartDtoBasedonLoggedInUser());
+        }
+
+        [Authorize]
+        public async Task<IActionResult> Confirm(int orderid)
+        {
+            return View(orderid);
+        }
+
+        [HttpPost]
+        [ActionName("checkout")]
+        public async Task<IActionResult> checkout(CartDto cartDto)
+        {
+           CartDto cart=  await LoadCartDtoBasedonLoggedInUser();
+            cart.cartHeader.PhoneNumber = cartDto.cartHeader.PhoneNumber;
+            cart.cartHeader.Email = cartDto.cartHeader.Email;
+            cart.cartHeader.Name = cartDto.cartHeader.Name;
+
+          var response = await _orderService.CreateOrder(cart);
+            OrderHeaderDto orderHeaderDto = 
+                JsonConvert.DeserializeObject<OrderHeaderDto>(Convert.ToString(response.Result));
+            if (response != null && response.Sussess)
+            {
+
+            }
+            return View(cart);    
         }
 
         public async Task<IActionResult> Remove(int cartDetailId)

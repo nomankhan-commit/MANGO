@@ -28,5 +28,20 @@ namespace Mango.MessageBus
             await sender.DisposeAsync();
 
         }
+        public async Task PublishMessageSpecificConnection(object message, string topic_queue_name, string service_bus_connection)
+        {
+            await using var client = new ServiceBusClient(service_bus_connection);
+            ServiceBusSender sender =  client.CreateSender(topic_queue_name);
+            var jsonMessage = JsonConvert.SerializeObject(message);
+            ServiceBusMessage serviceBusMessage = new ServiceBusMessage
+                (Encoding.UTF8.GetBytes(jsonMessage))
+            { 
+             CorrelationId = Guid.NewGuid().ToString(),
+            };
+
+            await  sender.SendMessageAsync(serviceBusMessage);
+            await sender.DisposeAsync();
+
+        }
     }
 }

@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Service.ShoppingCart"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.MessageBus", "Mango.MessageBus\Mango.MessageBus.csproj", "{488AC0AB-0415-4DF8-AC1D-86C2E18FB2B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.EmailApi", "Mango.Service.EmailApi\Mango.Service.EmailApi.csproj", "{055FAC30-948E-4C77-9FEB-F34F155A43AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Service.EmailApi", "Mango.Service.EmailApi\Mango.Service.EmailApi.csproj", "{055FAC30-948E-4C77-9FEB-F34F155A43AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mango.Service.OrderApi", "Mango.Service.OrderApi\Mango.Service.OrderApi.csproj", "{2290F811-B4D0-4E32-BF5A-80653DC4CE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.RewardApi", "Mango.Service.RewardApi\Mango.Service.RewardApi.csproj", "{0ACC9877-61C5-442F-BF31-911DA9020705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,14 @@ Global
 		{055FAC30-948E-4C77-9FEB-F34F155A43AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055FAC30-948E-4C77-9FEB-F34F155A43AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{055FAC30-948E-4C77-9FEB-F34F155A43AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2290F811-B4D0-4E32-BF5A-80653DC4CE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2290F811-B4D0-4E32-BF5A-80653DC4CE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2290F811-B4D0-4E32-BF5A-80653DC4CE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2290F811-B4D0-4E32-BF5A-80653DC4CE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACC9877-61C5-442F-BF31-911DA9020705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACC9877-61C5-442F-BF31-911DA9020705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACC9877-61C5-442F-BF31-911DA9020705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACC9877-61C5-442F-BF31-911DA9020705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +83,8 @@ Global
 		{B763DE81-087C-41A9-87EE-CF490C9020A7} = {A12C22FB-1BEF-4B97-9FAF-CE9C23116D44}
 		{488AC0AB-0415-4DF8-AC1D-86C2E18FB2B9} = {9EBBB349-0E5C-4282-8D20-C6A275A26FBB}
 		{055FAC30-948E-4C77-9FEB-F34F155A43AB} = {A12C22FB-1BEF-4B97-9FAF-CE9C23116D44}
+		{2290F811-B4D0-4E32-BF5A-80653DC4CE91} = {A12C22FB-1BEF-4B97-9FAF-CE9C23116D44}
+		{0ACC9877-61C5-442F-BF31-911DA9020705} = {A12C22FB-1BEF-4B97-9FAF-CE9C23116D44}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C69EB2E0-49F3-4B03-A6A0-4EBF29B196EE}

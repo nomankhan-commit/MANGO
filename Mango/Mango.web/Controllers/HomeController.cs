@@ -93,9 +93,11 @@ namespace Mango.web.Controllers
             }
             else
             {
+
                 TempData["error"] = responseDto.Message;
+                return RedirectToAction("Details", new { productId = productDto.ProductID });
             }
-            return View(productDto);
+            //
         }
 
 

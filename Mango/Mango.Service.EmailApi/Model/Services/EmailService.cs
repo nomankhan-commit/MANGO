@@ -1,4 +1,5 @@
 ﻿using Mango.Service.EmailApi.Data;
+using Mango.Service.EmailApi.Message;
 using Mango.Service.EmailApi.Model.Dto;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
@@ -60,6 +61,12 @@ namespace Mango.Service.EmailApi.Model.Services
         {
             string message = "User Registeration Successfull. </br> Email: "+ email;
             await LogAndEmail(message,"todo: admin email  here.");
+        }
+
+       public async Task  LogPlacedOrder(RewardMessage rewardMessage)
+        {
+            string message = "New order placed. </br> Order Id: " + rewardMessage.OrderId;
+            await LogAndEmail(message, "todo: admin email  here.");
         }
     }
 }
