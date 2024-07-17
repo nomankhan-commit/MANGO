@@ -1,27 +1,31 @@
 # Ignore bin and obj directories in all projects
-/Mango.MessageBus/bin/
-/Mango.MessageBus/obj/
 
-/Mango.Service.AuthAPI/bin/
-/Mango.Service.AuthAPI/obj/
+**/bin
+**/obj
 
-/Mango.Service.EmailApi/bin/
-/Mango.Service.EmailApi/obj/
+Mango.MessageBus/bin
+Mango.MessageBus/obj
 
-/Mango.Service.ProductApi/bin/
-/Mango.Service.ProductApi/obj/
+Mango.Service.AuthAPI/bin
+Mango.Service.AuthAPI/obj
 
-/Mango.Service.RewardApi/bin/
-/Mango.Service.RewardApi/obj/
+Mango.Service.EmailApi/bin
+Mango.Service.EmailApi/obj
 
-/Mango.Service.ShoppingCart/bin/
-/Mango.Service.ShoppingCart/obj/
+Mango.Service.ProductApi/bin
+Mango.Service.ProductApi/obj
 
-/Mango.Services.CouponAPI/bin/
-/Mango.Services.CouponAPI/obj/
+Mango.Service.RewardApi/bin
+Mango.Service.RewardApi/obj
 
-/Mango.web/bin/
-/Mango.web/obj/
+Mango.Service.ShoppingCart/bin
+Mango.Service.ShoppingCart/obj
+
+Mango.Services.CouponAPI/bin
+Mango.Services.CouponAPI/obj
+
+Mango.web/bin
+Mango.web/obj
 
 # .NET Core
 project.lock.json
