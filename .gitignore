@@ -1,3 +1,7 @@
+# Ignore bin and obj directories in all projects
+/Mango.Services.CouponAPI/bin/
+/Mango.Services.CouponAPI/obj/
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -83,8 +87,6 @@ yarn.lock
 project.lock.json
 project.fragment.lock.json
 artifacts/
-bin/
-obj/
 
 # Resharper
 _ReSharper*/
@@ -129,8 +131,9 @@ bld/
 
 # Rider
 .idea/
-*.sln.iml
-.idea_modules/
+*.sln.im
+
 
 # Visual Studio
 .vs/
+
