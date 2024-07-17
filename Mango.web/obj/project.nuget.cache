@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEhhEXOOAtpXHk8rNMwasII0zB/NEwBhR479MesClEU4OhEo8U9PdlLkB3WCIbdd9RazYWe/XG08qZgZRcqm/w==",
+  "success": true,
+  "projectFilePath": "D:\\OLD PC DATA\\skill devlopment courses and notes\\UDEMY\\MangoMicroService\\MANGO\\Mango.web\\Mango.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.0\\microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.0\\microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
+    "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.0\\microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
+    "C:\\Users\\trycatch\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.0\\microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
+    "C:\\Users\\trycatch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\trycatch\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.0\\system.identitymodel.tokens.jwt.7.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
